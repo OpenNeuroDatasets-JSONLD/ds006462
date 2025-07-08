@@ -1,0 +1,18 @@
+{
+    "Name": "agency-cfs",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors":[
+      "John Veillette",
+      "Yimeng Cheng",
+      "Aditi Joshi",
+      "Howard Nusbaum"
+    ],
+    "EthicsApprovals": ["Social and Behavioral Sciences IRB23-1353 at the University of Chicago."],
+    "ReferencesAndLinks": [
+      "https://doi.org/10.5281/zenodo.13273591"
+    ],
+    "Funding": [
+      "U.S. National Science Foundation BCS 2024923"
+    ]
+}
