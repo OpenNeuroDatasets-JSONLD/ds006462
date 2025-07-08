@@ -18,5 +18,6 @@
     "Funding": [
         "U.S. National Science Foundation BCS 2024923"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006462.v1.0.0"
 }
